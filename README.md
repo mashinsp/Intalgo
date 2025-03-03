@@ -1,2 +1,2 @@
-##INTALGO
+## INTALGO
 
